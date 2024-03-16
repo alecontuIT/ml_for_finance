@@ -11,5 +11,6 @@ This repository contains the commented and updated python code taken from the bo
 
 
 ### [2-Supervised learning (classification)](https://github.com/alecontuIT/ml_for_finance/tree/main/supervised%20learning%20(classification))
+#### [Fraud detection](https://github.com/alecontuIT/ml_for_finance/blob/main/supervised%20learning%20(classification)/1_fraud_detection.ipynb)
 #### [Bitcoin trading strategy (signals)](https://github.com/alecontuIT/ml_for_finance/blob/main/supervised%20learning%20(classification)/3_Bitcoin_trading_strategy.ipynb)
 
