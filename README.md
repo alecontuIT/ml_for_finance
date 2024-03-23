@@ -23,3 +23,4 @@ This repository contains the commented and updated python code taken from the bo
 
 ### [4-Unsupervised learning (clustering)](https://github.com/alecontuIT/ml_for_finance/tree/main/unsupervised%20learning%20(clustering))
 #### [Pairs trading](https://github.com/alecontuIT/ml_for_finance/blob/main/unsupervised%20learning%20(clustering)/1_pairs_trading.ipynb)
+#### [Investors clustering for portfolio management](https://github.com/alecontuIT/ml_for_finance/blob/main/unsupervised%20learning%20(clustering)/2_portfolio_management_investor_clustering.ipynb)
