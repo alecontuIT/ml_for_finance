@@ -25,3 +25,6 @@ This repository contains the commented and updated python code taken from the bo
 #### [Pairs trading](https://github.com/alecontuIT/ml_for_finance/blob/main/unsupervised%20learning%20(clustering)/1_pairs_trading.ipynb)
 #### [Investors clustering for portfolio management](https://github.com/alecontuIT/ml_for_finance/blob/main/unsupervised%20learning%20(clustering)/2_portfolio_management_investor_clustering.ipynb)
 #### [Hierarchical risk parity](https://github.com/alecontuIT/ml_for_finance/blob/main/unsupervised%20learning%20(clustering)/3_hierarchical_risk_parity.ipynb)
+
+### [5-Reinforcement learning](https://github.com/alecontuIT/ml_for_finance/tree/main/reinforcement%20learning)
+#### [Trading strategy](https://github.com/alecontuIT/ml_for_finance/blob/main/reinforcement%20learning/1_trading_strategy.ipynb)
