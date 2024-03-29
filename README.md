@@ -29,3 +29,4 @@ This repository contains the commented and updated python code taken from the bo
 ### [5-Reinforcement learning](https://github.com/alecontuIT/ml_for_finance/tree/main/reinforcement%20learning)
 #### [Trading strategy](https://github.com/alecontuIT/ml_for_finance/blob/main/reinforcement%20learning/1_trading_strategy.ipynb)
 #### [Derivative hedging](https://github.com/alecontuIT/ml_for_finance/blob/main/reinforcement%20learning/2_derivative_hedging.ipynb)
+#### [Portfolio allocation](https://github.com/alecontuIT/ml_for_finance/blob/main/reinforcement%20learning/3_portfolio_allocation.ipynb)
