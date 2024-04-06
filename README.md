@@ -33,3 +33,4 @@ This repository contains the commented and updated python code taken from the bo
 
 ### [6-Natural language processing](https://github.com/alecontuIT/ml_for_finance/tree/main/natural%20language%20processing)
 #### [Sentiment analysis based trading strategy](https://github.com/alecontuIT/ml_for_finance/blob/main/natural%20language%20processing/1_trading%20strategy%20with%20NLP%20and%20sentiment%20analysis.ipynb)
+#### [Document summarization](https://github.com/alecontuIT/ml_for_finance/blob/main/natural%20language%20processing/3_document%20summarization.ipynb)
